@@ -1,0 +1,4 @@
+SUN：Solaris，Java，甲骨文收购
+Novell：服务器操作系统
+Netscape：网景浏览器，火狐继承
+RealNetworks：媒体播放器
